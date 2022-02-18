@@ -1,4 +1,4 @@
- <img align="right" alt="Hello" height="50" style="border-radius:5px;" src="https://c.tenor.com/4BvIV4qafpEAAAAi/jojofactory-jojoteam.gif"></div><img align="left" alt="Hello" height="50" style="border-radius:5px;" src="https://c.tenor.com/4BvIV4qafpEAAAAi/jojofactory-jojoteam.gif"></div>
+ <img align="left" alt="Hello" height="50" style="border-radius:5px;" src="https://c.tenor.com/wZJkLabX6QkAAAAi/bro-pigeon-e-ai.gif"></div>
  ## <div align = "center">Welcome to Paulo Hartelt's profile, nice to meet you!</div> 
 
 <a href="https://www.linkedin.com/in/paulo-hartelt-045144106/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
