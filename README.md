@@ -1,4 +1,4 @@
- ## <div align = "center">Welcome to Paulo Hartelt's profile, nice to meet you! 👋</div>  
+ ## <div align = "center"><img align="center" src="https://i.ibb.co/XYvPDP4/github-header-image-1.png"/></div>  
 <div align="center">
   <a href="https://github.com/PauloHartelt">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PauloHartelt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
