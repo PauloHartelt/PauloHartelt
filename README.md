@@ -9,7 +9,8 @@
   <img align="center" alt="CSS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> - 
   <img align="center" alt="Node Js" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> - 
   <img align="center" alt="Postgresql" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"> - 
-  <img align="center" alt="Express" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="Express" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> -
+  <img align="center" alt="Git" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />  
  </div>
 
 ## 🏆 &nbsp;GitHub Analytics:
