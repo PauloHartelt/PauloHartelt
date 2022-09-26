@@ -1,5 +1,13 @@
 <div align = "center"><a href="https://github.com/PauloHartelt"><img align="center" src="https://i.ibb.co/XYvPDP4/github-header-image-1.png"/></div>
 
+## 🌎 &nbsp;About me:
+
+- I was born in 90's but i love 80's movies. My favorites ones are Tom Hanks's Big and Back to the future (I and II).
+
+- First Operational System that i saw was a Windows 95, but the first that i used was a Windows 97 (Yeah, i know what floppy disk is 🤣).
+
+- I like to listen a lot of genres, even from other countries, like Japanese's city pop, Romanian Pop and Afrobeat from Africa. 
+
 ## 👨‍💻 &nbsp;Tech Stack:
 
 <div style="display: inline_block">
