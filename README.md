@@ -6,7 +6,7 @@
 
 - First Operational system that i used was a Windows 97, so i know what floppy disk is 🤣
 
-- I like to listen a lot of genres, even from other countries, like Japanese's city pop, Romanian Pop and Afrobeat from Africa. 
+- I like to listen a lot of music genres, even from other countries, like Japanese city pop, Romanian Pop and Afrobeat from Africa. 
 
 ## 👨‍💻 &nbsp;Tech Stack:
 
