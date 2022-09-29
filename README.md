@@ -8,7 +8,7 @@
 
 - I like to listen a lot of music genres, even from other countries, like Japanese city pop, Romanian Pop and Afrobeat from Africa. 
 
-## 👨‍💻 &nbsp;Tech Stack that i know:
+## 👨‍💻 &nbsp;Tech stack that i know:
 
 <div style="display: inline_block">
   <a href="https://github.com/PauloHartelt">
