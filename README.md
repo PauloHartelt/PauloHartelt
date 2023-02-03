@@ -4,9 +4,9 @@
 
 - I was born in 90's but i love 80's movies. My favorites ones are Tom Hanks's Big and Back to the future (I and II).
 
-- First Operational system that i used was a Windows 97, so i know what floppy disk is 🤣
+- First operational system that i used was a Windows 97, so i know what floppy disk is 🤣
 
-- I like to listen a lot of music genres, even from other countries, like Japanese city pop, Romanian Pop and Afrobeat from Africa. 
+- I like to listen a lot of music genres, even from other countries, like japanese City Pop, romanian Pop and Afrobeat from Africa. 
 
 ## 👨‍💻 &nbsp;Tech stack that i know:
 
