@@ -1,4 +1,6 @@
-<div align = "center"><a href="https://github.com/PauloHartelt"><img align="center" src="https://i.ibb.co/XYvPDP4/github-header-image-1.png"/></div>
+<div align = "center"><a href="https://github.com/PauloHartelt"><img align="center" src="./github-header-image.png"/></div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=43bd68&size=30&center=true&vCenter=true&width=1000&lines=Hey!;I'm+Paulo+Hartelt+;Back+End+Developer+and+Data+Scientist;)](https://git.io/typing-svg)
 
 ## 🌎 &nbsp;About me:
 
